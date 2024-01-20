@@ -1,0 +1,177 @@
+{
+   "accountSettings": {
+      "message": "Налаштування облікового запису:"
+   },
+   "accountSuccessfullyConnected": {
+      "message": "Обліковий запис успішно підключено!"
+   },
+   "apiKey": {
+      "message": "API-KEY:"
+   },
+   "autoSubmitAlertCodeRequired": {
+      "message": "Необхідний код!"
+   },
+   "autoSubmitAlertFormOpened": {
+      "message": "Будь ласка, спочатку збережіть або скасуйте вже відкриту форму!"
+   },
+   "autoSubmitAlertUrlInvalid": {
+      "message": "Шаблон URL повинен бути дійсним регулярним виразом!"
+   },
+   "autoSubmitAlertUrlRequired": {
+      "message": "Необхідний шаблон URL!"
+   },
+   "autoSubmitConfirmDelete": {
+      "message": "Видалити правило"
+   },
+   "autoSubmitCreateNewRule": {
+      "message": "Створити нове правило"
+   },
+   "autoSubmitDescription": {
+      "message": "За замовчуванням функція «Автовідправка» відправляє форму, яка містить поле для відповіді на капчу. Якщо після вирішення капчі потрібно виконати щось інше, наприклад, натискання якої-небудь кнопки, будь ласка, визначте це тут:"
+   },
+   "autoSubmitNoRules": {
+      "message": "Ще не додано жодного правила..."
+   },
+   "autoSubmitPlaceholderCode": {
+      "message": "Послідовність дій для виконання, наприклад:"
+   },
+   "autoSubmitPlaceholderUrl": {
+      "message": "Шаблон URL (regex), наприклад:"
+   },
+   "autoSubmitRules": {
+      "message": "Правила автовідправки"
+   },
+   "balance": {
+      "message": "Баланс"
+   },
+   "blackListDomain": {
+      "message": "Список заборонених URL"
+   },
+   "buttonPosition": {
+      "message": "Позиція кнопки"
+   },
+   "buttonPositionFixed": {
+      "message": "Внизу правого кута"
+   },
+   "buttonPositionInner": {
+      "message": "Поруч з капчею"
+   },
+   "cancel": {
+      "message": "Скасувати"
+   },
+   "connect": {
+      "message": "Підключити"
+   },
+   "contactUs": {
+      "message": "Зв'яжіться з нами: \u003Ca href=\"mailto:$email$\">$email$\u003C/a>",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "createAccountToGetIt": {
+      "message": "\u003Ca href=\"#\" data-lang-link=\"$link$\" target=\"_blank\">Створіть обліковий запис\u003C/a>, щоб отримати це.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "delay": {
+      "message": "Затримка"
+   },
+   "delete": {
+      "message": "Видалити"
+   },
+   "doNotHaveApiKey": {
+      "message": "Не маєте API-KEY?"
+   },
+   "edit": {
+      "message": "Редагувати"
+   },
+   "enablePlugin": {
+      "message": "Увімкнути плагін"
+   },
+   "enabledSolveAutomatically": {
+      "message": "Увімкнено / Автоматично розв'язувати"
+   },
+   "extDescription": {
+      "message": "Плагін розв'язувача SCTG дозволяє автоматично розв'язувати CAPTCHA на будь-якій веб-сторінці."
+   },
+   "extName": {
+      "message": "Розв'язувач капчі: Автоматичне визнання та обхід"
+   },
+   "extShortName": {
+      "message": "Розв'язувач капчі"
+   },
+   "generalSettings": {
+      "message": "Загальні налаштування:"
+   },
+   "haveAnyQuestions": {
+      "message": "Є які-небудь питання/пропозиції?"
+   },
+   "ifErrorRepeat": {
+      "message": "Якщо сталася помилка, повторіть"
+   },
+   "images": {
+      "message": "Зображення"
+   },
+   "login": {
+      "message": "Увійти"
+   },
+   "logout": {
+      "message": "Вийти"
+   },
+   "manualLink": {
+      "message": "Інструкція"
+   },
+   "markAsCaptchaSource": {
+      "message": "Позначити як джерело капчі"
+   },
+   "minScore": {
+      "message": "мін. бал:"
+   },
+   "normalManual": {
+      "message": "Збережено місце розташування зображення з капчею. Тепер виберіть, куди помістити відповідь."
+   },
+   "optionsPageTitle": {
+      "message": "Налаштування розширення SCTG"
+   },
+   "proxySettings": {
+      "message": "Налаштування проксі"
+   },
+   "proxyType": {
+      "message": "Тип проксі"
+   },
+   "putCaptchaAnswerHere": {
+      "message": "Введіть відповідь на капчу тут"
+   },
+   "save": {
+      "message": "Зберегти"
+   },
+   "seconds": {
+      "message": "секунд"
+   },
+   "settingsLink": {
+      "message": "Налаштування"
+   },
+   "solveWithSCTG": {
+      "message": "Вирішити за допомогою SCTG"
+   },
+   "solved": {
+      "message": "Капчу вирішено!"
+   },
+   "solving": {
+      "message": "Вирішення..."
+   },
+   "submitFormsAutomatically": {
+      "message": "Автоматично відправляти форми"
+   },
+   "times": {
+      "message": "разів"
+   },
+   "useProxy": {
+      "message": "Використовувати проксі"
+   }
+}

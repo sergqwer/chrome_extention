@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="2033" height="438" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" clip-rule="evenodd" fill-rule="evenodd" version="1.1" xml:space="preserve">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#3BBBBC}
+    .fil0 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#000000" fill-opacity="0.1" font-family="Serif" font-size="24" id="svg_6" stroke="#ffffff" stroke-width="0" text-anchor="middle" transform="matrix(7.71574 0 0 2.91985 -5979.3 -411.36)" x="859.67" xml:space="preserve" y="209"/>
+  <text fill="#000000" fill-opacity="0.1" font-family="Serif" font-size="24" id="svg_7" stroke="#ffffff" stroke-width="0" text-anchor="middle" transform="matrix(17.5338 0 0 15.8245 -14940.2 -3384.32)" x="907.67" xml:space="preserve" y="236"/>
+  <text fill="#ffffff" font-family="Serif" font-size="24" id="svg_8" opacity="0.95" stroke="#ffffff" stroke-width="0" text-anchor="middle" transform="matrix(17.7081 0 0 15.7118 -16129.8 -3236.25)" x="968.28" xml:space="preserve" y="228.13">SCTG</text>
+ </g>
+</svg>
